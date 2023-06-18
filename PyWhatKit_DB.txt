@@ -1,0 +1,20 @@
+Date: 20/5/2023
+Time: 11:36
+Phone Number: +918512012525
+Message: what are you doing
+--------------------
+Date: 20/5/2023
+Time: 14:40
+Phone Number: +918512012525
+Message: check for Sunday message
+--------------------
+Date: 24/5/2023
+Time: 7:32
+Phone Number: +918512012525
+Message: check for final message
+--------------------
+Date: 24/5/2023
+Time: 8:53
+Phone Number: +918512012525
+Message: this is the check for message function on AI
+--------------------
