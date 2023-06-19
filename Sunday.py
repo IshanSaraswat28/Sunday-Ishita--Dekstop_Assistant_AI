@@ -981,9 +981,8 @@ def mainframe():
                 subprocess.call(["shutdown", "/r", "/t", "0"])
 
             elif there_exists(['mood detection', 'emotion', 'how is my mood', 'how are my emotions'],query):
-                SR.speak('Start detection')
+                SR.speak('Starting detection')
                 subprocess.Popen(["python", "main.py"])
-                SR.speak('passed')
 
             else:
                 SR.speak("Sorry it did not match with any commands that i'm registered with. Please say it again.")
